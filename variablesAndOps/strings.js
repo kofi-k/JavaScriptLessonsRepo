@@ -8,7 +8,7 @@ str = "this is a \"double quotes\" inside a quotation mark"
 str = 'use single quotes for strings so you can "double quote" supa-fast w/o escape characters'
 
 //one more interesting 'back ticks'
-str = `'ouuu call this a "hack in a hack". Is this actually called back-tick?  '`
+str = `'ooou, call this a "hack in a hack". Is this actually called back-tick?  '`
 
 //escaping sequences -- lets get a lil messy
 var esp = 'Supa-granny\n\tParent\n\t\tChildren\n\t\t\tBozos\\Sisy\'s'
